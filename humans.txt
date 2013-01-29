@@ -1,0 +1,24 @@
+/* TEAM */
+    Creator: Ross Brunoges
+    Contact: ross [at] mozillafoundation.org
+    Twitter: @rossbruniges
+    From: London, UK
+
+    DevOps: JP Schneider
+    Twitter: @jdotp
+    From: Chicago, USA
+
+    Visionary: John Buckly
+    Twitter: @jbuck
+    From: Toronto, Canada
+
+    Confirmer of Facts: Michiel "Pomax" Kamermans
+    From: Vancouver, Canada
+
+/* THANKS */
+    Get your name in here - contribute!
+
+/* SITE */
+    Language: English
+    Doctype: HTML5
+    IDE: Sublime Text 2
